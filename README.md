@@ -51,17 +51,7 @@ In this second test, I was asked to implement an interactive table using TypeScr
 ## Project Functionality
 
 The development of the table is highly innovative as it is a completely dynamic table that uses backend keys to automatically generate rows. This allows the frontend to generate the table with just a single code snippet in a matter of seconds.
-
-Currently, I am evaluating how to improve the table headers as the code was created several months ago. This particular table stands out for its excellent performance and flexibility.
-
-The table has been designed to adapt to various needs and situations. Its focus on automatically generating rows based on backend keys is one of the aspects I emphasize and take pride in. This approach enables greater efficiency and a smoother user experience. However, I am open to receiving feedback and suggestions to further enhance the code.
-
-In addition to functionality, I am also considering improvements in terms of table styles. While the main focus so far has been on performance and flexibility, I understand the importance of an attractive and cohesive visual presentation.
-
-I am willing to explore options to optimize and enhance the table styles, providing a more pleasant experience for users.
-
-I appreciate any feedback or comments you can provide regarding this part of the code. Your perspective and suggestions will be valuable in continuing to improve and refine the functionality and appearance of the table.
-
+ 
 ## Installation and running the Project
 
 - Required [Node.js](https://nodejs.org/) v10+.
